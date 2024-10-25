@@ -24,6 +24,6 @@ if __name__ == "__main__":
      sol.Print_Array(arr)
      
      print("Array without Duplicate")
-     sol.Duplicate(arr)
-     sol.Print_Array(arr)
+     print(sol.Duplicate(arr))
+    
           
